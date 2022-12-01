@@ -1,0 +1,59 @@
+Batsmen                                    			Runs	Balls	Strikerate	FOURS	SIXES
+Naseem Shah                                                       	0	1	0.0		0	0	lbw b Bhuvneshwar
+Haris Rauf                                                        	13	7	185.71		2	0	notout
+Khushdil                                                          	2	7	28.57		0	0	c Jadeja b Hardik Pandya
+Rizwan                                                            	43	42	102.38		4	1	c Avesh Khan b Hardik Pandya
+Shadab Khan                                                       	10	9	111.11		1	0	lbw b Bhuvneshwar
+Babar Azam                                                        	10	9	111.11		2	0	c Arshdeep Singh b Bhuvneshwar
+Asif Ali                                                          	9	7	128.57		0	0	c Suryakumar Yadav b Bhuvneshwar
+Mohammad Nawaz                                                    	1	3	33.33		0	0	c Karthik b Arshdeep Singh
+Dahani                                                            	16	6	266.67		0	2	b Arshdeep Singh
+Fakhar Zaman                                                      	10	6	166.67		2	0	c Karthik b Avesh Khan
+Iftikhar Ahmed                                                    	28	22	127.27		2	1	c Karthik b Hardik Pandya
+
+
+
+
+
+Bowler                                    			Balls	Runs	Wickets
+Avesh Khan                                                         	2.0	19	1
+Chahal                                                             	4.0	32	0
+Arshdeep Singh                                                     	3.5	33	2
+Bhuvneshwar                                                        	4.0	26	4
+Jadeja                                                             	2.0	11	0
+Hardik Pandya                                                      	4.0	25	3
+
+
+Extras   -   5
+
+PAK  -     147/10
+
+
+
+
+Batsmen                                    			Runs	Balls	Strikerate	FOURS	SIXES
+Rohit                                                              	12	18	66.67		0	1	c Iftikhar Ahmed b Mohammad Nawaz
+Suryakumar Yadav                                                   	18	18	100.0		1	0	b Naseem Shah
+Kohli                                                              	35	34	102.94		3	1	c Iftikhar Ahmed b Mohammad Nawaz
+Karthik                                                            	1	1	100.0		0	0	notout
+Rahul                                                              	0	1	0.0		0	0	b Naseem Shah
+Jadeja                                                             	35	29	120.69		2	2	b Mohammad Nawaz
+Hardik Pandya                                                      	33	17	194.12		4	1	notout
+
+
+
+
+
+Bowler                                    			Balls	Runs	Wickets
+Naseem Shah                                                               	4.0	27	2
+Haris Rauf                                                                	4.0	36	0
+Mohammad Nawaz                                                            	3.4	33	3
+Shadab Khan                                                               	4.0	19	0
+Dahani                                                                    	4.0	30	0
+
+
+Extras   -   14
+
+IND  -     148/5
+
+IND won the match
